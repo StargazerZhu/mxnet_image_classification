@@ -98,3 +98,5 @@ ENV/
 # project files
 .idea/
 .DS_Store
+*.params
+*.pickle
